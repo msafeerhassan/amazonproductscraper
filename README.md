@@ -3,9 +3,10 @@
 The Amazon Product Scraper is a tool designed to extract key details from Amazon product listings using BeautifulSoup, a Python library for parsing HTML and XML documents. This scraper efficiently gathers information such as product titles, URLs, ratings, and prices, allowing users to quickly compile data from multiple products in a structured format like a spreadsheet.
 
 Features:
-Title and URL Extraction: Scrapes product titles and corresponding URLs.
-Rating and Price Retrieval: Collects product ratings and prices for easy comparison.
-Structured Data Output: Outputs the scraped data in a CSV or Excel format for analysis and record-keeping.
+Title and URL Extraction: Scrapes product titles and corresponding URLs,
+Rating and Price Retrieval: Collects product ratings and prices for easy comparison,
+Structured Data Output: Outputs the scraped data in a CSV or Excel format for analysis and record-keeping
+
 Scraping Limits:
 Due to Amazon's strict policies and anti-scraping measures, the scraper has built-in limitations to ensure compliance and avoid triggering Amazon’s defenses:
 
